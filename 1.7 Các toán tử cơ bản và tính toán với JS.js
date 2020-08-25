@@ -2,7 +2,6 @@
     An operand(toán hạng) / Arguments
     operators(toán tử)
     5 * 2 - (5, 2 là toán hạng, * / + - là toán tử)
-
 */
 
 /* 
