@@ -75,6 +75,6 @@ let g = f(); // g.[[Environment]] stores a reference to the Lexical Environment
 
 /* 
     Real-life optimizations
-    
+
 
 */
