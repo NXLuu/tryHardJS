@@ -30,7 +30,7 @@
         elem.stylle.cssText = 'color:red';
     + Đừng quên đơn vị của css
     + Đọc style css:
-        getComputedStyle(element, [pseudo]);
+        window.getComputedStyle(element, [pseudo]).getPropertyValue("css");
         - element - phần tử muốn đọc
         - pseudo - 
         
